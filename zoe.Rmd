@@ -1,30 +1,110 @@
 ---
-title: "zoe"
-author: "Zoe Morales Ervolino"
-date: "3/11/2021"
+title: ""
 output: html_document
+
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 ---
+
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+    background-color: #edb8ff;
+    	cursor: url('/Users/zoeervolino/Documents/zoe/cursor.cur'), default;
+}
+</style>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+library(embedr)
+library(tinytex)
+library(emo)
+library(rmdprotectr)
 ```
 
-## R Markdown
+```{css, echo=FALSE}
+body{
+  font-size: 32px;
+  font-family: WarioLand4CHMC, Glamourgirl;
+  text-align:center;
+  color:indigo;
+}
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+h1,h2,h3,h4,h5,h6{
+  font-family: Love Letters;
+  font-size: 40pt;
+}
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+```  
+<font size=80>
+<p style=color:indigo>
+<h1 style="font family:Glamourgirl">
+ZOE `r emo::ji("dizzy")` ERVOLINO
+</h1>
+</p>
+</font>
 
-```{r cars}
-summary(cars)
+```{r image1, echo=FALSE, out.width="100%", fig.align='center'}
+
+mascara <- "/Users/zoeervolino/Documents/zoe/bookmark_zme.jpg"
+knitr::include_graphics(mascara)
+
 ```
 
-## Including Plots
+<font size=60>Zoe Morales Ervolino </font>is a born-and-bred New Yorker and recent Yale graduate where she earned a dual-degree in American Studies and History. Somewhere along the way she developed a penchant for R. This is the result. 
 
-You can also embed plots, for example:
+```{r image2, echo=FALSE, out.width="40%", fig.align='center'}
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+zoe <- "/Users/zoeervolino/Documents/zoe/IMG_1710.JPG"
+knitr::include_graphics(zoe)
+
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+**❣ listen ❣**
+
+el laberinto 
+
+
+```{r lab, echo=FALSE, eval=TRUE}
+lab <- "/Volumes/NO NAME/zoe/laberinto.mp3"
+embed_audio(lab, attribute = c("controls", "loop"), type = "mpeg")
+```
+
+
+**❣ watch ❣**
+
+el viaje
+
+
+
+```{r viaje, echo=FALSE}
+viaje <- "/Volumes/NO NAME/zoe/ft.mp4"
+embed_video(viaje, type = "mp4", width = "560", height = "780", attribute = "controls")
+```
+
+
+```{r image3, echo=FALSE, out.width="60%", fig.align='center'}
+
+zoe1 <- "/Volumes/NO NAME/zoe/viaje.jpeg"
+knitr::include_graphics(zoe1)
+
+```
+
+**❣ peruse ❣**
+
+
+auto-retrato
+
+```{r image4, echo=FALSE, out.width="60%", fig.align='center'}
+
+zoe2 <- "/Volumes/NO NAME/zoe/FullSizeRender.jpeg"
+knitr::include_graphics(zoe2)
+
+```
+**❣ thanks for stopping by ❣**
