@@ -1,6 +1,21 @@
+
+@font-face {
+    font-family: 'WarioLand4CHMC';
+    src: url("/Users/zoeervolino/Documents/zoe/zoe/Warioland4chmc-VApe.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Love Letters';
+    src: url("/Users/zoeervolino/Documents/zoe/zoe/Love Letters.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
 body{
   font-size: 32px;
-  font-family: WarioLand4CHMC, Glamourgirl;
+  font-family: WarioLand4CHMC;
   text-align:center;
   color:indigo;
 }
@@ -8,4 +23,5 @@ body{
 h1,h2,h3,h4,h5,h6{
   font-family: Love Letters;
   font-size: 40pt;
+  color:Magenta;
 }
