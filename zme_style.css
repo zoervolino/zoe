@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'WarioLand4CHMC';
-    src: url("./Volumes/NO NAME/sophie dillon/Warioland4chmc-VApe.ttf") format('truetype');
-    font-weight: bold;
+    src: url("/Users/zoeervolino/Documents/zoe/zoe/Warioland4chmc-VApe.ttf") format('truetype');
+    font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Love Letters';
-    src: url("/Users/zoeervolino/Downloads/love-letters/Love Letters.ttf") format('truetype');
+    src: url("/Users/zoeervolino/Documents/zoe/zoe/Love Letters.ttf") format('truetype');
     font-weight: bold;
     font-style: normal;
 }
