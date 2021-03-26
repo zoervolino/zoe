@@ -1,7 +1,8 @@
 ---
 title: ""
-output: html_document
-
+output: 
+  html_document
+  
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
@@ -20,6 +21,7 @@ css: zme_style.css
     	cursor: url('/Users/zoeervolino/Documents/zoe/cursor.cur'), default;
 }
 </style>
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -59,7 +61,7 @@ el laberinto
 
 ```{r lab, echo=FALSE, eval=TRUE}
 lab <- "/Volumes/NO NAME/zoe/laberinto.mp3"
-embed_audio(lab, attribute = c("controls", "loop"), type = "mpeg")
+embed_audio(lab, attribute = c("controls"), type = "mpeg")
 ```
 
 
@@ -69,13 +71,13 @@ el viaje
 
 
 
-```{r viaje, echo=FALSE}
+```{r viaje, echo=FALSE, out.width="100%", fig.align='center'}
 viaje <- "/Volumes/NO NAME/zoe/ft.mp4"
-embed_video(viaje, type = "mp4", width = "560", height = "780", attribute = "controls")
+embed_video(viaje, type = "mp4", height = "90%", attribute = "controls")
 ```
 
 
-```{r image3, echo=FALSE, out.width="60%", fig.align='center'}
+```{r image3, echo=FALSE, out.width="45%", fig.align='center'}
 
 zoe1 <- "/Volumes/NO NAME/zoe/viaje.jpeg"
 knitr::include_graphics(zoe1)
@@ -87,7 +89,7 @@ knitr::include_graphics(zoe1)
 
 auto-retrato
 
-```{r image4, echo=FALSE, out.width="60%", fig.align='center'}
+```{r image4, echo=FALSE, out.width="50%", fig.align='center'}
 
 zoe2 <- "/Volumes/NO NAME/zoe/FullSizeRender.jpeg"
 knitr::include_graphics(zoe2)
