@@ -65,16 +65,9 @@ embed_audio(lab, attribute = c("controls"), type = "mpeg")
 ```
 
 
-**❣ watch ❣**
+**❣ enjoy ❣**
 
 el viaje
-
-
-
-```{r viaje, echo=FALSE, out.width="40%", fig.align='center'}
-viaje <- "/Volumes/NO NAME/zoe/ft.mp4"
-embed_video(viaje, type = "mp4", width = "560", height = "760", attribute = "controls")
-```
 
 
 ```{r image3, echo=FALSE, out.width="45%", fig.align='center'}
@@ -84,8 +77,12 @@ knitr::include_graphics(zoe1)
 
 ```
 
-**❣ peruse ❣**
+```{r viaje, echo=FALSE, out.width="100%", fig.align='center'}
+viaje <- "/Volumes/NO NAME/zoe/ft.mp4"
+embed_video(viaje, type = "mp4", height = "90%", attribute = "controls")
+```
 
+**❣ peruse ❣**
 
 auto-retrato
 
@@ -95,4 +92,5 @@ zoe2 <- "/Volumes/NO NAME/zoe/FullSizeRender.jpeg"
 knitr::include_graphics(zoe2)
 
 ```
-**❣ thanks for stopping by ❣**
+
+<font size=80>**❣ thanks for stopping by ❣**</font>
