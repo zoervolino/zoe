@@ -16,7 +16,7 @@ css: zme_style.css
   max-width: 1800px;
   margin-left: auto;
   margin-right: auto;
-    background-color: #edb8ff;
+    background-color:PowderBlue;
     	cursor: url('/Users/zoeervolino/Documents/zoe/cursor.cur'), default;
 }
 </style>
@@ -30,26 +30,10 @@ library(emo)
 library(rmdprotectr)
 ```
 
-```{css, echo=FALSE}
-body{
-  font-size: 32px;
-  font-family: WarioLand4CHMC, Glamourgirl;
-  text-align:center;
-  color:indigo;
-}
-
-h1,h2,h3,h4,h5,h6{
-  font-family: Love Letters;
-  font-size: 40pt;
-}
-
-```  
 <font size=80>
-<p style=color:indigo>
-<h1 style="font family:Glamourgirl">
+<h1 style=>
 ZOE `r emo::ji("dizzy")` ERVOLINO
 </h1>
-</p>
 </font>
 
 ```{r image1, echo=FALSE, out.width="100%", fig.align='center'}
