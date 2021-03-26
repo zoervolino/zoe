@@ -63,21 +63,19 @@ embed_audio(lab, attribute = c("controls"), type = "mpeg")
 ```
 
 
-**❣ enjoy ❣**
+**❣ watch ❣**
 
 el viaje
 
-
-```{r image3, echo=FALSE, out.width="45%", fig.align='center'}
-
-zoe1 <- "/Volumes/NO NAME/zoe/viaje.jpeg"
-knitr::include_graphics(zoe1)
-
-```
-
-```{r viaje, echo=FALSE, out.width="100%", fig.align='center'}
+```{r viaje, echo=FALSE, fig.align='center'}
 viaje <- "/Volumes/NO NAME/zoe/ft.mp4"
-embed_video(viaje, type = "mp4", height = "90%", attribute = "controls")
+embed_video(
+  viaje, 
+  type = "mp4", 
+  height = "90%", 
+  attribute = "controls",
+    thumbnail = "/Volumes/NO NAME/zoe/viaje.jpeg",
+)
 ```
 
 **❣ peruse ❣**
