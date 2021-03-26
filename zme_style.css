@@ -1,14 +1,14 @@
 
 @font-face {
-    font-family: 'Love Letters';
-    src: url("https://github.com/zoervolino/zoe/blob/ecabd3526f68347caabcd22973ada4d47e80824c/Love%20Letters.ttf") format('truetype');
+    font-family: 'WarioLand4CHMC';
+    src: url("/Users/zoeervolino/Documents/zoe/Warioland4chmc-VApe.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'WarioLand4CHMC';
-    src: url("https://github.com/zoervolino/zoe/blob/145846cdf69d2986d405294f4a6a352a860df3b3/Warioland4chmc-VApe.ttf") format('truetype');
+    font-family: 'Love Letters';
+    src: url("/Users/zoeervolino/Documents/zoe/Love Letters.ttf") format('truetype');
     font-weight: bold;
     font-style: normal;
 }
