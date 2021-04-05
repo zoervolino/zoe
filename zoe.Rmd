@@ -45,7 +45,7 @@ knitr::include_graphics(mascara)
 
 ```
 
-<font size=60>Zoe Morales Ervolino </font>is a born-and-bred New Yorker and recent Yale graduate where she earned a dual-degree in American Studies and History. Somewhere along the way she developed a penchant for R. This is the result. 
+<font size=60>Zoe Morales Ervolino </font>is a born-and-bred New Yorker and recent Yale graduate where she earned a dual-degree in American Studies and History. Somewhere along the way she developed a penchant for R. Perhaps more surprisingly, this website is the result. 
 
 ```{r image2, echo=FALSE, out.width="40%", fig.align='center'}
 
@@ -54,7 +54,7 @@ knitr::include_graphics(zoe)
 
 ```
 
-**❣ listen ❣**
+<h2>**❣ listen ❣**</h2>
 
 el laberinto 
 
@@ -65,7 +65,7 @@ embed_audio(lab, attribute = c("controls"), type = "mpeg")
 ```
 
 
-**❣ watch ❣**
+<h3>**❣ watch ❣**</h3>
 
 el viaje
 
@@ -80,7 +80,7 @@ embed_video(
 )
 ```
 
-**❣ peruse ❣**
+<h4>**❣ peruse ❣**</h4>
 
 auto-retrato
 
@@ -91,4 +91,4 @@ knitr::include_graphics(zoe2)
 
 ```
 
-<font size=80>**❣ thanks for stopping by ❣**</font>
+<h5><font size=80>**❣ thanks for stopping by ❣**</font></h5>
