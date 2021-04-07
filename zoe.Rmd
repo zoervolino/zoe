@@ -1,17 +1,17 @@
 ---
 title: ""
 output: html_document
-      
+
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
  encoding=encoding,
  output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
- 
+
+self_contained: false
+
 css: zme_style.css
-
 ---
-
 <style type="text/css">
 .main-container {
   max-width: 1800px;
@@ -22,10 +22,12 @@ css: zme_style.css
 }
 </style>
 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(knitr)
 library(embedr)
+library(vembedr)
 library(tinytex)
 library(emo)
 library(rmdprotectr)
@@ -58,14 +60,13 @@ knitr::include_graphics(zoe)
 
 el laberinto 
 
-
 ```{r lab, echo=FALSE, eval=TRUE}
 lab <- "/Volumes/NO NAME/zoe/laberinto.mp3"
 embed_audio(lab, attribute = c("controls"), type = "mpeg")
 ```
 
 
-<h3>**❣ watch ❣**</h3>
+<h3>**❣ enjoy ❣**</h3>
 
 el viaje
 
@@ -91,4 +92,16 @@ knitr::include_graphics(zoe2)
 
 ```
 
+<h6><font size=60>❣ watch ❣</h6></font>
+
+<font size=70>Triangulations</font>
+
+<iframe src="https://player.vimeo.com/video/463677663" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/463677663">Triangulations</a> by <a href="https://vimeo.com/user124123052">Zoe Ervolino</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/unfriendlybrujita" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/unfriendlybrujita', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">❣ let's be friends ❣</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank"></a></p></form>
+
 <h5><font size=80>**❣ thanks for stopping by ❣**</font></h5>
+
+
+        
