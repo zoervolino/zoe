@@ -47,7 +47,7 @@ knitr::include_graphics(mascara)
 
 ```
 
-Zoe Morales Ervolino <font size=34>is a born-and-bred New Yorker and recent Yale graduate where she earned a dual-degree in American Studies and History. Somewhere along the way she developed a penchant for R. Perhaps more surprisingly, this website is the result.</font> 
+Zoe Morales Ervolino <body1>is a born-and-bred New Yorker and recent Yale graduate where she earned a dual-degree in American Studies and History. Somewhere along the way she developed a penchant for R. Perhaps more surprisingly, this website is the result.</body1> 
 
 ```{r image2, echo=FALSE, out.width="40%", fig.align='center'}
 
@@ -102,5 +102,5 @@ knitr::include_graphics(zoe2)
 
 <p><h7>❣ thanks for stopping by ❣</h7></p>
 
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/unfriendlybrujita" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/unfriendlybrujita', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">let's be friends</label></p><p><input type="text" style="height:20%" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank"></a></p></form>
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/unfriendlybrujita" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/unfriendlybrujita', 'popupwindow', 'scrollbars=yes,width=100%,height=100%');return true"><p><label for="tlemail">let's be friends</label></p><p><input type="text" style="height:20%" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank"></a></p></form>
     
