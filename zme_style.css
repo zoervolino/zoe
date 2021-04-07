@@ -21,27 +21,28 @@
 }
 
 body{
-  font-size: 32px;
+  font-size: 34px;
   font-family: WarioLand4CHMC;
   text-align:center;
-  color:PaleVioletRed;
+  color:DarkSlateGrey;
 }
 
 h1{
   font-family: AerologicaRegular-K7day;
-  font-size: 40pt;
+  font-size: 80pt;
   font-weight: thin;
-  color:DarkOrange;
+  color:MidnightBlue;
 }
 
 h2,h3,h4,h5,h6{
   font-family: Love Letters;
-  font-size: 25pt;
+  font-size: 40pt;
   color:LightSeaGreen;
 }
 
 h7{
   font-family: Love Letters;
-  font-size: : 65pt
+  font-size: 50pt;
   color:MidnightBlue;
 }
+

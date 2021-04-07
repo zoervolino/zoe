@@ -92,7 +92,7 @@ knitr::include_graphics(zoe2)
 
 ```
 
-<h6><font size=60>❣ watch ❣</h6></font>
+<h6>❣ watch ❣</h6>
 
 <font size=70>Triangulations</font>
 
@@ -101,7 +101,9 @@ knitr::include_graphics(zoe2)
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/unfriendlybrujita" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/unfriendlybrujita', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">❣ let's be friends ❣</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank"></a></p></form>
 
-<h5><font size=80>**❣ thanks for stopping by ❣**</font></h5>
+```{r}
+```
+<p><h7>❣ thanks for stopping by ❣</h7></p>
 
 
         
