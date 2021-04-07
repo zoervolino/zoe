@@ -47,7 +47,7 @@ knitr::include_graphics(mascara)
 
 ```
 
-Zoe Morales Ervolino <body1>is a born-and-bred New Yorker and recent Yale graduate where she earned a dual-degree in American Studies and History. Somewhere along the way she developed a penchant for R. Perhaps more surprisingly, this website is the result.</body1> 
+Zoe Morales Ervolino <a1>is a born-and-bred New Yorker and recent Yale graduate where she earned a dual-degree in American Studies and History. Somewhere along the way she developed a penchant for R. Perhaps more surprisingly, this website is the result.</a1> 
 
 ```{r image2, echo=FALSE, out.width="40%", fig.align='center'}
 
@@ -83,7 +83,7 @@ embed_video(
 
 <h6>❣ watch ❣</h6>
 
-Triangulations
+triangulations
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/463677663" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/463677663">Triangulations</a> by <a href="https://vimeo.com/user124123052">Zoe Ervolino</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -102,6 +102,6 @@ knitr::include_graphics(zoe2)
 
 <p><h7>❣ thanks for stopping by ❣</h7></p>
 
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/unfriendlybrujita" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/unfriendlybrujita', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">keep in touch</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="`r emo::ji("star")` subscribe `r emo::ji("star")`" /><p><a href="https://tinyletter.com" target="_blank"></a></p></form>
+<a2><form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/unfriendlybrujita" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/unfriendlybrujita', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">keep in touch</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="`r emo::ji("star")` subscribe `r emo::ji("star")`" /><p><a href="https://tinyletter.com" target="_blank"></a></p></form></a2>
         
     

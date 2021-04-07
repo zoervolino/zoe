@@ -27,12 +27,7 @@ body{
   color:DarkSlateGrey;
 }
 
-body1{
-  font-size: 34px;
-  font-family: WarioLand4CHMC;
-  text-align:center;
-  color:DarkSlateGrey;
-}
+  
 h1{
   font-family: AerologicaRegular-K7day;
   font-size: 60pt;
@@ -52,3 +47,15 @@ h7{
   color:MidnightBlue;
 }
 
+a1{
+  font-size: 34px;
+  font-family: WarioLand4CHMC;
+  text-align:center;
+  color:DarkSlateGrey;
+}
+
+a2{
+  font-size: 34px;
+  font-family: WarioLand4CHMC;
+  text-align:center;
+  color:Navy;
