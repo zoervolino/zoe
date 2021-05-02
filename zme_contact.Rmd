@@ -14,7 +14,11 @@ css: zme_style.css
 }
 </style>
 
-<h1><a href="https://zoervolino.github.io/zoe/">CONTACT</h1></a>
+<a href="https://zoervolino.github.io/zoe/"><font size=80>
+<h1 style=>
+ZOE `r emo::ji("dizzy")` ERVOLINO
+</h1>
+</font></a>
 
 ```{r image1, echo=FALSE, out.width="35%", fig.align='center'}
 
