@@ -10,6 +10,13 @@ knit: (function(input_file, encoding) {
  
 css: zme_style.css
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+
+```
+
 <style type="text/css">
 .main-container {
   max-width: 1800px;
