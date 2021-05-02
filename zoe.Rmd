@@ -40,6 +40,8 @@ ZOE `r emo::ji("dizzy")` ERVOLINO
 </h1>
 </font>
 
+<small><a href="contact.html"><i>Contact</i></a></small>
+
 ```{r image1, echo=FALSE, out.width="100%", fig.align='center'}
 
 mascara <- "/Users/zoeervolino/Documents/zoe/bookmark_zme.jpg"
