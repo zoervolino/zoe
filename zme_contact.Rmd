@@ -14,6 +14,15 @@ css: zme_style.css
 }
 </style>
 
-<h1>Contact</h1>
+<h1><a href="https://zoervolino.github.io/zoe/">CONTACT</h1></a>
 
-You can reach Zoe at zoe at ervolino dot com
+```{r image1, echo=FALSE, out.width="35%", fig.align='center'}
+
+mascara <- "zoezoe.jpg"
+knitr::include_graphics(mascara)
+
+```
+
+<small>You can reach Zoe at zoe at ervolino dot com</small>
+<br>
+<hr>
