@@ -39,35 +39,52 @@ Zoe Morales Ervolino <small><small>does art stuff sometimes.
 
 If you like, <a href="https://zoervolino.github.io/cartagena/">enjoy some of photographs</a> she took during a recent trip to Cartagena, Colombia and the nearby cities of Barranquilla and San Andres. 
 
-You can also peruse the acrylic and oil studies she has done over the past few years. 
-
-
-<a2>tan boba</a2>
-```{r image3, echo=FALSE, out.width="60%", fig.align='center'}
+You can also take a look at the acrylic and oil paintings she has done over the past few years. 
+<br>
+<hr>
+<br>
+<font size=60>
+<b><a2>tan boba</a2></b>
+</font>
+<br>
+<a2>oléo sobre lienzo</a2>
+```{r image3, echo=FALSE, out.width="50%", fig.align='center'}
 a <- "IMG_0113.JPG"
 knitr::include_graphics(a)
 ```
-<a2>auto-retrato rojito</a2>
-```{r image4, echo=FALSE, out.width="60%", fig.align='center'}
+<br>
+<br>
+<b><a2>auto-retrato rojito</a2></b><br>
+<a2>acrílico sobre papel</a2>
+```{r image4, echo=FALSE, out.width="50%", fig.align='center'}
 a <- "IMG_9513.JPG"
 knitr::include_graphics(a)
 ```
-
-<a2>carita</a2>
-```{r image5, echo=FALSE, out.width="60%", fig.align='center'}
+<br>
+<br>
+<b><a2>carita</a2></b><br>
+<a2>acrílico sobre papel</a2>
+```{r image5, echo=FALSE, out.width="50%", fig.align='center'}
 a <- "IMG_0107.JPG"
 knitr::include_graphics(a)
 ```
-
-<a2>reflexión desnuda</a2>
-```{r image6, echo=FALSE, out.width="60%", fig.align='center'}
+<br>
+<br>
+<b><a2>reflexión desnuda</a2></b>
+<br>
+<a2>oléo sobre lienzo</a2>
+```{r image6, echo=FALSE, out.width="50%", fig.align='center'}
 a <- "IMG_1970.JPG"
 knitr::include_graphics(a)
 ```
-
-<a2>la maldición del vientre</a2>
+<br>
+<br>
+<b><a2>la maldición del vientre</a2></b>
+<br>
+<a2>acrílico sobre papel</a2>
 ```{r image7, echo=FALSE, out.width="60%", fig.align='center'}
 a <- "IMG_0105.JPG"
 knitr::include_graphics(a)
 ```
+<br>
 </small></small>
