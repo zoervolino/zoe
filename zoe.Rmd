@@ -88,11 +88,9 @@ embed_video(
 <h6>❣ watch ❣</h6>
 
 <center>triangulations</center>
-<br>
-<iframe width="560" height="315"
-src="https://youtu.be/rf0VjGLtb3g?t=195">
-</iframe>
-
+```{r triangulations embed, echo=FALSE, fig.align='center'}
+ embed_youtube(id = "rf0VjGLtb3g",)
+```
 <h4>**❣ peruse ❣**</h4>
 
 auto-retrato
