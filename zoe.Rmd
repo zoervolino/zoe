@@ -22,7 +22,6 @@ css: zme_style.css
 }
 </style>
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(knitr)
@@ -37,7 +36,7 @@ library(rmarkdown)
 <a href="https://zoervolino.github.io/zoe/">
 <font size=80>
 <h1 style=>
-ZOE `r emo::ji("dizzy")` ERVOLINO
+ZOE M`r emo::ji("dizzy")`RALES ERVOLINO
 </h1>
 </font>
 </a>
