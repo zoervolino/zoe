@@ -1,0 +1,68 @@
+---
+title: ""
+output: html_document
+
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'design.html'))})
+ 
+css: zme_style.css
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+```
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+    background-color:PowderBlue;
+    	cursor: url('/Users/zoeervolino/Documents/zoe/cursor.cur'), default;
+}
+</style>
+
+<a href="https://zoervolino.github.io/zoe/"><font size=80>
+<h1 style=>
+ZOE `r emo::ji("dizzy")` ERVOLINO
+</h1>
+</font></a>
+
+Zoe Morales Ervolino <small><small>does art stuff sometimes.
+
+If you like, <a href="https://zoervolino.github.io/cartagena/">enjoy some of photographs</a> she took during a recent trip to Cartagena, Colombia and the nearby cities of Barranquilla and San Andres. 
+
+You can also peruse the acrylic and oil studies she has done over the past few years. 
+
+
+<a2>tan boba</a2>
+```{r image3, echo=FALSE, out.width="60%", fig.align='center'}
+a <- "IMG_0113.JPG"
+knitr::include_graphics(a)
+```
+<a2>auto-retrato rojito</a2>
+```{r image4, echo=FALSE, out.width="60%", fig.align='center'}
+a <- "IMG_9513.JPG"
+knitr::include_graphics(a)
+```
+
+<a2>carita</a2>
+```{r image5, echo=FALSE, out.width="60%", fig.align='center'}
+a <- "IMG_0107.JPG"
+knitr::include_graphics(a)
+```
+
+<a2>reflexión desnuda</a2>
+```{r image6, echo=FALSE, out.width="60%", fig.align='center'}
+a <- "IMG_1970.JPG"
+knitr::include_graphics(a)
+```
+
+<a2>la maldición del vientre</a2>
+```{r image7, echo=FALSE, out.width="60%", fig.align='center'}
+a <- "IMG_0105.JPG"
+knitr::include_graphics(a)
+```
+</small></small>

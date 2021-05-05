@@ -1,8 +1,14 @@
 ---
 title: ""
+output: html_document
 
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'about.html'))})
+ 
 css: zme_style.css
-
 ---
 <style type="text/css">
 .main-container {
@@ -14,6 +20,31 @@ css: zme_style.css
 }
 </style>
 
-<h1>About</h1>
+<a href="https://zoervolino.github.io/zoe/"><font size=80>
+<h1 style=>
+ZOE `r emo::ji("dizzy")` ERVOLINO
+</h1>
+</font></a>
 
-More about me
+```{r image1, echo=FALSE, out.width="25%", fig.align='center'}
+
+mascara <- "IMG_3312.jpeg"
+knitr::include_graphics(mascara)
+
+```
+
+Zoe Morales Ervolino <small><small>is a New Yorker of Italian and Colombian-American descent, and recent graduate of Yale University where she double-majored in American Studies (Visual, Audio, Literary, & Performance Cultures) and History (concentrating in Latin America). 
+<br>
+<br>
+Her thesis in AMST,  <a href="https://collegearts.yale.edu/events/shows-screenings/cancelled-miss-tizaje">MISS-TIZAJE</a>, took on the complex and absurd subject of Colombian beauty pageants. 
+<br>
+<br>
+Zoe has crafted, directed, and performed in artistic projects of all stripes and has experience working in the arts through <a href="https://www.facebook.com/TheFordLA/posts/its-nationalinternday-and-wed-like-to-introduce-to-you-zoe-zoe-morales-ervolino-/10157779769947858/">her tenure with The Ford</a> over the summer of 2020. 
+<br>
+<br>
+Since graduating, Zoe has worked for brands like <a href="https://www.instagram.com/p/CJzOZeCpKYo/">Ceremonia</a> and had her writing published in <a href="https://mixedmag.co/?s=zoe+ervolino">Mixed Mag</a>.
+<br>
+<br>
+Zoe resides in NYC.
+</small></small>
+</p>
