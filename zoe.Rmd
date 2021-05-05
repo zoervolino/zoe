@@ -92,8 +92,8 @@ embed_video(
 
 <center>triangulations</center>
 ```{r triangulations, echo=FALSE, fig.align='center', out.width="50%"}
-embed_vimeo("463677663") %>%
-  use_bs_responsive()
+##embed_vimeo("463677663") %>%
+  ##use_bs_responsive()
 ```
 <h4>**❣ peruse ❣**</h4>
 
