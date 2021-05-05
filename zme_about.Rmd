@@ -38,7 +38,7 @@ knitr::include_graphics(mascara)
 
 ```
 
-Zoe Morales Ervolino <small><small>is a New Yorker of Italian and Colombian-American descent, and recent graduate of Yale University where she double-majored in American Studies (Visual, Audio, Literary, & Performance Cultures) and History (concentrating in Latin America). 
+Zoe Morales Ervolino <small><small>is a New Yorker of Italian- and Colombian-American descent, and recent graduate of Yale University where she double-majored in American Studies (Visual, Audio, Literary, & Performance Cultures) and History (concentrating in Latin America). 
 <br>
 <br>
 Her thesis in AMST,  <a href="https://collegearts.yale.edu/events/shows-screenings/cancelled-miss-tizaje">MISS-TIZAJE</a>, took on the complex and absurd subject of Colombian beauty pageants. 
