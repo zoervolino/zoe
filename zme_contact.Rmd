@@ -32,7 +32,13 @@ ZOE `r emo::ji("dizzy")` ERVOLINO
 </h1>
 </font></a>
 
-```{r image1, echo=FALSE, out.width="25%", fig.align='center'}
+<small><small><a href="design.html"><i>ART</a>  </i></small></small> 
+<small><small><a href="about.html"><i>ABOUT</a>  </i></small> 
+<small><a href="contact.html"><i>CONTACT</a>  </i></small> 
+<small><a href="https://tinyletter.com/unfriendlybrujita/archive"><i>ARCHIVE</a>  </i></small> 
+
+
+```{r image1, echo=FALSE, out.width="50%", fig.align='center'}
 
 mascara <- "zoezoe.jpg"
 knitr::include_graphics(mascara)
