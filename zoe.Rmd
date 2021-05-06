@@ -12,6 +12,7 @@ self_contained: false
 
 css: zme_style.css
 ---
+<head>
 <style type="text/css">
 .main-container {
   max-width: 1800px;
@@ -32,7 +33,6 @@ library(emo)
 library(rmdprotectr)
 library(rmarkdown)
 ```
-<head>
 <a href="https://zoervolino.github.io/zoe/">
 <font size=80>
 <h1>Zoe M`r emo::ji("dizzy")`rales Ervolino</h1>
