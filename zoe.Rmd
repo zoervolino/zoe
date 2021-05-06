@@ -93,7 +93,7 @@ embed_video(
 <center>
 view triangulations <a href="https://youtu.be/rf0VjGLtb3g?t=253"><b>here</b>
 </center>
-```{r image x, echo=FALSE, out.width="40%", fig.align='center'}
+```{r image x, echo=FALSE, out.width="50%", fig.align='center'}
 
 triangulations <- "/Users/zoeervolino/Documents/zoe/zoe/triangulations.jpg"
 knitr::include_graphics(triangulations)
