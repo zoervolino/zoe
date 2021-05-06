@@ -1,7 +1,7 @@
 
 @font-face {
-    font-family: 'Galacticagrid-8Mr7J';
-    src: url("/Users/zoeervolino/Documents/zoe/Galacticagrid-8Mr7J.ttf") format('truetype');
+    font-family: 'FontsFree-Net-PanAmTextCaps';
+    src: url("/Users/zoeervolino/Documents/zoe/zoe/FontsFree-Net-PanAmTextCaps.ttf") format('truetype');
     font-weight: thin;
     font-style: normal;
 }
@@ -31,8 +31,8 @@ body{
 
   
 h1{
-  font-family: Galacticagrid-8Mr7J;
-  font-size: 40pt;
+  font-family: FontsFree-Net-PanAmTextCaps;
+  font-size: 60pt;
   font-weight: thin;
   color:MidnightBlue;
 }
