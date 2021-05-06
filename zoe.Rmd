@@ -56,7 +56,7 @@ knitr::include_graphics(a)
 ```
 </a>
 <br>
-<a1><b>Zoe Morales Ervolino</a1></b> <small>is a born-and-bred New Yorker and recent Yale graduate. Somewhere along the way she developed a penchant for R. Perhaps most surprisingly, this website is the result of that love and was built entirely in RStudio.</small>
+<a1><b>Zoe Morales Ervolino</a1></b> <small>is a born-and-bred New Yorker and recent Yale graduate. Somewhere along the way she developed a penchant for R. Perhaps most surprisingly, this website was lovingly built in RStudio.</small>
 <br>
 <br>
 ```{r image2, echo=FALSE, out.width="40%", fig.align='center'}
@@ -91,12 +91,15 @@ embed_video(
 <h6>❣ watch ❣</h6>
 </center>
 <center>
-view triangulations <a href="https://youtu.be/rf0VjGLtb3g?t=253"><b>here</b></a>
+view triangulations <a href="https://youtu.be/rf0VjGLtb3g?t=253"><b>here</b>
 </center>
-```{r triangulations, echo=FALSE, fig.align='center', out.width="50%"}
-##embed_vimeo("463677663") %>%
-  ##use_bs_responsive()
+```{r image x, echo=FALSE, out.width="40%", fig.align='center'}
+
+triangulations <- "/Users/zoeervolino/Documents/zoe/zoe/triangulations.jpg"
+knitr::include_graphics(triangulations)
+
 ```
+</a>
 <br>
 <hr>
 <br>
