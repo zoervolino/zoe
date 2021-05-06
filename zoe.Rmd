@@ -85,6 +85,7 @@ embed_video(
 )
 ```
 <br>
+<br>
 <hr>
 <br>
 <center>
@@ -137,9 +138,7 @@ embed_audio(lab, attribute = c("controls"), type = "mpeg")
 <br>
 <hr>
 <br>
-<center>
-<p><h2>❣ thanks for stopping by ❣</h2></p>
-</center>
+<center><p><h2>❣ thanks for stopping by ❣</h2></p></center>
 <br>
 <a2><form style="border:2px solid #3cc;padding:3px;text-align:center;" action="https://tinyletter.com/unfriendlybrujita" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/unfriendlybrujita', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">keep in touch</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="`r emo::ji("star")` subscribe `r emo::ji("star")`" /><p><a href="https://tinyletter.com" target="_blank"></a></p></form></a2>
 </body>
