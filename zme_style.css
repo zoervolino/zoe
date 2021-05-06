@@ -32,7 +32,7 @@ body{
   font-size: 32px;
   font-family: Exo2Medium-aDL9;
   text-align:center;
-  color:DarkSlateGrey;
+  color:LavenderBlush;
 }
 
   
@@ -40,7 +40,7 @@ h1{
   font-family: FontsFree-Net-PanAmTextCaps;
   font-size: 35pt;
   font-weight: thin;
-  color:MidnightBlue;
+  color:Linen;
 }
 
 h2,h3,h4,h5,h6{
@@ -54,18 +54,12 @@ a1{
   font-size: 30px;
   font-family: WarioLand4CHMC;
   text-align:center;
-  color:#334d99;
+  color:MistyRose;
 }
 
 a2{
   font-size: 40px;
   font-family: WarioLand4CHMC;
   text-align:center;
-  color:SlateGrey;
+  color:Grey;
   
-p{
-  margin-top: 10%;
-  margin-bottom: 10%;
-  margin-right: 5%;
-  margin-left: 5%;
-}

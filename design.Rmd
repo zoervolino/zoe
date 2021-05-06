@@ -19,7 +19,7 @@ library(knitr)
   max-width: 1800px;
   margin-left: auto;
   margin-right: auto;
-    background-color:PowderBlue;
+    background-color:MidnightBlue;
     	cursor: url('/Users/zoeervolino/Documents/zoe/zoe/cursor.cur'), default;
 }
 </style>
@@ -43,7 +43,8 @@ library(knitr)
 <a1><b>Zoe Morales Ervolino</a1></b> <small><small>does art stuff sometimes.
 
 If you like, <a href="https://zoervolino.github.io/cartagena/">enjoy some of the photographs</a> she took during a recent trip to Cartagena, Colombia and the nearby cities of Barranquilla and San Andres. 
-
+<br>
+<br>
 You can also take a look at the acrylic and oil paintings she has done. 
 
 <br>
@@ -94,7 +95,26 @@ knitr::include_graphics(a)
 ```
 <br>
 </small></small>
-
+<br>
+<br>
+<b><a2>huevitos abstractos</a2></b>
+<br>
+<a2>oléo sobre lienzo</a2>
+```{r image8, echo=FALSE, out.width="60%", fig.align='center'}
+a <- "IMG_0101.JPG"
+knitr::include_graphics(a)
+```
+<br>
+<br>
+<b><a2>la niña verde</a2></b>
+<br>
+<a2>acrílico sobre papel</a2>
+```{r image9, echo=FALSE, out.width="60%", fig.align='center'}
+a <- "IMG_0100.JPG"
+knitr::include_graphics(a)
+```
+<br>
+</small></small>
 <br>
 <hr>
 <br>
