@@ -129,7 +129,8 @@ embed_audio(lab, attribute = c("controls"), type = "mpeg")
 ```
 </center>
 <center>
-further sonic pleasure <a href="https://soundcloud.com/zoe-ervolino"><b>here</a></b>
+<small>further sonic pleasure <a href="https://soundcloud.com/zoe-ervolino"><b>here</a></b>
+</small>
 </center>
 <br>
 <hr>

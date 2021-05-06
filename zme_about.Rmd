@@ -43,7 +43,7 @@ knitr::include_graphics(mascara)
 
 ```
 
-<a1><b>Zoe Morales Ervolino</a1></b> is a New Yorker of Italian- and Colombian-American descent, and recent graduate of Yale University where she double-majored in American Studies (Visual, Audio, Literary, & Performance Cultures) and History (concentrating in Latin America).
+<a1><b>Zoe Morales Ervolino</a1></b> is a New Yorker of Colombian- and Italian-American descent, and recent graduate of Yale University where she double-majored in American Studies (Visual, Audio, Literary, & Performance Cultures) and History (concentrating in Latin America).
 <br>
 <br>
 Her thesis in American Studies,  <a href="https://collegearts.yale.edu/events/shows-screenings/cancelled-miss-tizaje">MISS-TIZAJE</a>, took on the complex and absurd subject of Colombian beauty pageants. 
@@ -52,7 +52,7 @@ Her thesis in American Studies,  <a href="https://collegearts.yale.edu/events/sh
 Zoe has crafted, directed, and performed in artistic projects of all stripes and has experience working in the arts through <a href="https://www.facebook.com/TheFordLA/posts/its-nationalinternday-and-wed-like-to-introduce-to-you-zoe-zoe-morales-ervolino-/10157779769947858/">her tenure with The Ford</a> over the summer of 2020. 
 <br>
 <br>
-Since graduating, Zoe has worked for brands like <a href="https://www.instagram.com/p/CJzOZeCpKYo/">Ceremonia</a> and had her writing published in <a href="https://mixedmag.co/?s=zoe+ervolino">Mixed Mag</a>.
+Since graduating, Zoe has worked for brands like <a href="https://www.instagram.com/p/CJzOZeCpKYo/">Ceremonia</a> and has been published in <a href="https://mixedmag.co/?s=zoe+ervolino">Mixed Mag</a>.
 <br>
 <br>
 Zoe resides in NYC.
