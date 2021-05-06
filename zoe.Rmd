@@ -58,7 +58,7 @@ knitr::include_graphics(a)
 ```
 </a>
 
-<a1><b>Zoe Morales Ervolino</a1></b> <small>is a born-and-bred New Yorker and recent Yale graduate. Somewhere along the way she developed a penchant for R. Perhaps more surprisingly, this website is the result.</small>
+<a1><b>Zoe Morales Ervolino</a1></b> <small>is a born-and-bred New Yorker and recent Yale graduate. Somewhere along the way she developed a penchant for R. Perhaps most surprisingly, this website is the result of that love and was built entirely in RStudio.</small>
 
 ```{r image2, echo=FALSE, out.width="40%", fig.align='center'}
 
