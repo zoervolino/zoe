@@ -35,26 +35,25 @@ library(rmarkdown)
 
 <a href="https://zoervolino.github.io/zoe/">
 <font size=80>
-<h1 style=>
-ZOE M`r emo::ji("dizzy")`RALES ERVOLINO
-</h1>
+<h1>Zoe M`r emo::ji("dizzy")`rales Ervolino</h1>
 </font>
 </a>
 
+<a2>
 <small><small><a href="about.html"><i>ABOUT</a>  </i></small></small>
 <small><small><a href="design.html"><i>ART</a>  </i></small></small> 
 <small><small><a href="contact.html"><i>CONTACT</a>  </i></small></small> 
-<small><small><a href="https://tinyletter.com/unfriendlybrujita/archive"><i>ARCHIVE</a>  </i></small></small>  
+<small><small><a href="https://tinyletter.com/unfriendlybrujita/archive"><i>ARCHIVE</a>  </i></small></small>
+</a2>  
 
-
+<a href="https://zoervolino.github.io/zoe/design.html">
 ```{r image1, echo=FALSE, out.width="100%", fig.align='center'}
-
-mascara <- "/Users/zoeervolino/Documents/zoe/bookmark_zme.jpg"
-knitr::include_graphics(mascara)
-
+a <- "/Users/zoeervolino/Documents/zoe/bookmark_zme.jpg"
+knitr::include_graphics(a)
 ```
+</a>
 
-Zoe Morales Ervolino <a1>is a born-and-bred New Yorker and recent Yale graduate. Somewhere along the way she developed a penchant for R. Perhaps more surprisingly, this website is the result.</a1> 
+<a1><b>Zoe Morales Ervolino</a1></b> <small>is a born-and-bred New Yorker and recent Yale graduate. Somewhere along the way she developed a penchant for R. Perhaps more surprisingly, this website is the result.</small>
 
 ```{r image2, echo=FALSE, out.width="40%", fig.align='center'}
 
@@ -120,6 +119,6 @@ further sonic pleasure <a href="https://soundcloud.com/zoe-ervolino"><b>here</a>
 <br>
 <p><h7>❣ thanks for stopping by ❣</h7></p>
 
-<a2><form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/unfriendlybrujita" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/unfriendlybrujita', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">keep in touch</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="`r emo::ji("star")` subscribe `r emo::ji("star")`" /><p><a href="https://tinyletter.com" target="_blank"></a></p></form></a2>
+<a2><form style="border:2px solid #3cc;padding:3px;text-align:center;" action="https://tinyletter.com/unfriendlybrujita" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/unfriendlybrujita', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">keep in touch</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="`r emo::ji("star")` subscribe `r emo::ji("star")`" /><p><a href="https://tinyletter.com" target="_blank"></a></p></form></a2>
         
     

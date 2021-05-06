@@ -24,22 +24,25 @@ library(knitr)
 }
 </style>
 
-<a href="https://zoervolino.github.io/zoe/"><font size=80>
-<h1 style=>
-ZOE M`r emo::ji("dizzy")`RALES ERVOLINO
-</h1>
-</font></a>
+<a href="https://zoervolino.github.io/zoe/">
+<font size=80>
+<h1>Zoe M`r emo::ji("dizzy")`rales Ervolino</h1>
+</font>
+</a>
 
+<a2>
 <small><small><a href="about.html"><i>ABOUT</a>  </i></small></small>
 <small><small><a href="design.html"><i>ART</a>  </i></small></small> 
 <small><small><a href="contact.html"><i>CONTACT</a>  </i></small></small> 
-<small><small><a href="https://tinyletter.com/unfriendlybrujita/archive"><i>ARCHIVE</a>  </i></small></small> 
+<small><small><a href="https://tinyletter.com/unfriendlybrujita/archive"><i>ARCHIVE</a>  </i></small></small>
+</a2>  
 
-Zoe Morales Ervolino <small><small>does art stuff sometimes.
+<a1><b>Zoe Morales Ervolino</a1></b> <small><small>does art stuff sometimes.
 
-If you like, <a href="https://zoervolino.github.io/cartagena/">enjoy some of photographs</a> she took during a recent trip to Cartagena, Colombia and the nearby cities of Barranquilla and San Andres. 
+If you like, <a href="https://zoervolino.github.io/cartagena/">enjoy some of the photographs</a> she took during a recent trip to Cartagena, Colombia and the nearby cities of Barranquilla and San Andres. 
 
-You can also take a look at the acrylic and oil paintings she has done over the past few years. 
+You can also take a look at the acrylic and oil paintings she has done. 
+
 <br>
 <hr>
 <br>

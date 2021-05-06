@@ -1,7 +1,7 @@
 
 @font-face {
-    font-family: 'AerologicaRegular-K7day';
-    src: url("/Users/zoeervolino/Documents/zoe/AerologicaRegular-K7day.ttf") format('truetype');
+    font-family: 'Galacticagrid-8Mr7J';
+    src: url("/Users/zoeervolino/Documents/zoe/Galacticagrid-8Mr7J.ttf") format('truetype');
     font-weight: thin;
     font-style: normal;
 }
@@ -14,22 +14,24 @@
 }
 
 @font-face {
-    font-family: 'WarioLand4CHMC';
-    src: url("/Users/zoeervolino/Documents/zoe/Warioland4chmc-VApe.ttf") format('truetype');
+    font-family: 'Exo2Medium-aDL9';
+    src: url("/Users/zoeervolino/Documents/zoe/zoe/Exo2Medium-aDL9.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
+
+
 body{
-  font-size: 50px;
-  font-family: WarioLand4CHMC;
+  font-size: 38px;
+  font-family: Exo2Medium-aDL9;
   text-align:center;
   color:DarkSlateGrey;
 }
 
   
 h1{
-  font-family: AerologicaRegular-K7day;
+  font-family: Galacticagrid-8Mr7J;
   font-size: 60pt;
   font-weight: thin;
   color:MidnightBlue;
@@ -48,14 +50,21 @@ h7{
 }
 
 a1{
-  font-size: 34px;
+  font-size: 45px;
   font-family: WarioLand4CHMC;
   text-align:center;
-  color:DarkSlateGrey;
+  color:#334d99;
 }
 
 a2{
-  font-size: 34px;
+  font-size: 40px;
   font-family: WarioLand4CHMC;
   text-align:center;
-  color:Navy;
+  color:SlateGrey;
+  
+p{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-right: 5%;
+  margin-left: 5%;
+}

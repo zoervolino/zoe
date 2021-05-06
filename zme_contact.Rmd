@@ -26,16 +26,18 @@ library(knitr)
 }
 </style>
 
-<a href="https://zoervolino.github.io/zoe/"><font size=80>
-<h1 style=>
-ZOE M`r emo::ji("dizzy")`RALES ERVOLINO
-</h1>
-</font></a>
+<a href="https://zoervolino.github.io/zoe/">
+<font size=80>
+<h1>Zoe M`r emo::ji("dizzy")`rales Ervolino</h1>
+</font>
+</a>
 
+<a2>
 <small><small><a href="about.html"><i>ABOUT</a>  </i></small></small>
 <small><small><a href="design.html"><i>ART</a>  </i></small></small> 
 <small><small><a href="contact.html"><i>CONTACT</a>  </i></small></small> 
-<small><small><a href="https://tinyletter.com/unfriendlybrujita/archive"><i>ARCHIVE</a>  </i></small></small> 
+<small><small><a href="https://tinyletter.com/unfriendlybrujita/archive"><i>ARCHIVE</a>  </i></small></small>
+</a2>  
 
 ```{r image1, echo=FALSE, out.width="50%", fig.align='center'}
 
@@ -44,7 +46,7 @@ knitr::include_graphics(mascara)
 
 ```
 
-<small>You can reach Zoe at zoe at ervolino dot com</small>
+<small>You can reach <a1><b>Zoe</a1></b> at <a href="mailto:zoe@ervolino.com">zoe at ervolino dot com</a></small>
 <br>
 <br>
 <br>
