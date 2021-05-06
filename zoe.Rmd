@@ -36,10 +36,7 @@ library(rmarkdown)
 <a href="https://zoervolino.github.io/zoe/">
 <font size=80>
 <h1>Zoe M`r emo::ji("dizzy")`rales Ervolino</h1>
-</font>
-</a>
-<b>
-<a2>
+</font></a><b><a2>
 <small>
 <small><small><a href="about.html"><i>ABOUT</a>  </i></small></small>
 <small><small><a href="design.html"><i>ART</a>  </i></small></small> 
@@ -50,6 +47,7 @@ library(rmarkdown)
 </b>
 </head>
 <a name="top"></a>
+<br>
 <body>
 <a href="https://zoervolino.github.io/zoe/design.html">
 ```{r image1, echo=FALSE, out.width="100%", fig.align='center'}
@@ -57,9 +55,10 @@ a <- "/Users/zoeervolino/Documents/zoe/bookmark_zme.jpg"
 knitr::include_graphics(a)
 ```
 </a>
-
+<br>
 <a1><b>Zoe Morales Ervolino</a1></b> <small>is a born-and-bred New Yorker and recent Yale graduate. Somewhere along the way she developed a penchant for R. Perhaps most surprisingly, this website is the result of that love and was built entirely in RStudio.</small>
-
+<br>
+<br>
 ```{r image2, echo=FALSE, out.width="40%", fig.align='center'}
 
 zoe <- "/Users/zoeervolino/Documents/zoe/IMG_1710.JPG"
@@ -136,8 +135,9 @@ embed_audio(lab, attribute = c("controls"), type = "mpeg")
 <hr>
 <br>
 <center>
-<p><h7>❣ thanks for stopping by ❣</h7></p>
+<p><h2>❣ thanks for stopping by ❣</h2></p>
 </center>
+<br>
 <a2><form style="border:2px solid #3cc;padding:3px;text-align:center;" action="https://tinyletter.com/unfriendlybrujita" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/unfriendlybrujita', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">keep in touch</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="`r emo::ji("star")` subscribe `r emo::ji("star")`" /><p><a href="https://tinyletter.com" target="_blank"></a></p></form></a2>
 </body>
 <br>
