@@ -38,15 +38,15 @@ library(knitr)
 <small><small><a href="https://tinyletter.com/unfriendlybrujita/archive"><i>ARCHIVE</a>  </i></small></small>
 </small>
 </a2>  
-
-
+<br>
 <a1><b>Zoe Morales Ervolino</a1></b> <small><small>does art stuff sometimes.
-
+<br>
+<br>
 If you like, <a href="https://zoervolino.github.io/cartagena/">enjoy some of the photographs</a> she took during a recent trip to Cartagena, Colombia and the nearby cities of Barranquilla and San Andres. 
 <br>
 <br>
 You can also take a look at the acrylic and oil paintings she has done. 
-
+<br>
 <br>
 <hr>
 <br>
