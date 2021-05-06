@@ -18,7 +18,7 @@ css: zme_style.css
   margin-left: auto;
   margin-right: auto;
     background-color:PowderBlue;
-    	cursor: url('/Users/zoeervolino/Documents/zoe/cursor.cur'), default;
+    	cursor: url('/Users/zoeervolino/Documents/zoe/zoe/cursor.cur'), default;
 }
 </style>
 
