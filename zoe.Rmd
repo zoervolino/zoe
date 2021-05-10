@@ -59,9 +59,9 @@ knitr::include_graphics(a)
 <a1><b>Zoe Morales Ervolino</a1></b> is a born-and-bred New Yorker and recent Yale graduate. Somewhere along the way she developed a penchant for R. Perhaps most surprisingly, this website was lovingly built in RStudio.
 <br>
 <br>
-```{r image2, echo=FALSE, out.width="40%", fig.align='center'}
+```{r image2, echo=FALSE, out.width="80%", fig.align='center'}
 
-zoe <- "/Users/zoeervolino/Documents/zoe/IMG_1710.JPG"
+zoe <- "/Users/zoeervolino/Documents/zoe/zoe/IMG_4106.jpeg"
 knitr::include_graphics(zoe)
 
 ```
