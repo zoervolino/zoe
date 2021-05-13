@@ -55,7 +55,7 @@ You can also take a look at the acrylic and oil paintings she has done.
 </font>
 <br>
 <a2>oléo sobre lienzo</a2>
-```{r image3, echo=FALSE, out.width="50%", fig.align='center'}
+```{r image3, echo=FALSE, out.width="70%", fig.align='center'}
 a <- "IMG_0113.JPG"
 knitr::include_graphics(a)
 ```
@@ -63,7 +63,7 @@ knitr::include_graphics(a)
 <br>
 <b><a2>auto-retrato rojito</a2></b><br>
 <a2>acrílico sobre papel</a2>
-```{r image4, echo=FALSE, out.width="50%", fig.align='center'}
+```{r image4, echo=FALSE, out.width="70%", fig.align='center'}
 a <- "IMG_9513.JPG"
 knitr::include_graphics(a)
 ```
@@ -71,7 +71,7 @@ knitr::include_graphics(a)
 <br>
 <b><a2>carita</a2></b><br>
 <a2>acrílico sobre papel</a2>
-```{r image5, echo=FALSE, out.width="50%", fig.align='center'}
+```{r image5, echo=FALSE, out.width="70%", fig.align='center'}
 a <- "IMG_0107.JPG"
 knitr::include_graphics(a)
 ```
@@ -80,7 +80,7 @@ knitr::include_graphics(a)
 <b><a2>reflexión desnuda</a2></b>
 <br>
 <a2>oléo sobre lienzo</a2>
-```{r image6, echo=FALSE, out.width="50%", fig.align='center'}
+```{r image6, echo=FALSE, out.width="70%", fig.align='center'}
 a <- "IMG_1970.JPG"
 knitr::include_graphics(a)
 ```
@@ -89,7 +89,7 @@ knitr::include_graphics(a)
 <b><a2>la maldición del vientre</a2></b>
 <br>
 <a2>acrílico sobre papel</a2>
-```{r image7, echo=FALSE, out.width="60%", fig.align='center'}
+```{r image7, echo=FALSE, out.width="70%", fig.align='center'}
 a <- "IMG_0105.JPG"
 knitr::include_graphics(a)
 ```
@@ -100,7 +100,7 @@ knitr::include_graphics(a)
 <b><a2>huevitos abstractos</a2></b>
 <br>
 <a2>oléo sobre lienzo</a2>
-```{r image8, echo=FALSE, out.width="60%", fig.align='center'}
+```{r image8, echo=FALSE, out.width="70%", fig.align='center'}
 a <- "IMG_0101.JPG"
 knitr::include_graphics(a)
 ```
@@ -109,7 +109,7 @@ knitr::include_graphics(a)
 <b><a2>la niña verde</a2></b>
 <br>
 <a2>acrílico sobre papel</a2>
-```{r image9, echo=FALSE, out.width="60%", fig.align='center'}
+```{r image9, echo=FALSE, out.width="70%", fig.align='center'}
 a <- "IMG_0100.JPG"
 knitr::include_graphics(a)
 ```

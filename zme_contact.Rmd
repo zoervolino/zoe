@@ -49,7 +49,7 @@ knitr::include_graphics(mascara)
 
 ```
 <br>
-<small>You can reach <a1><b>Zoe</a1></b> at <a href="mailto:zoe@ervolino.com">zoe at ervolino dot com</a></small>
+<small>Resume available upon request. You can reach <a1><b>Zoe</a1></b> at <a href="mailto:zoe@ervolino.com">zoe at ervolino dot com</a></small>
 <br>
 <br>
 <hr>
