@@ -56,7 +56,7 @@ knitr::include_graphics(a)
 ```
 </a>
 <br>
-<a1><b>Zoe Morales Ervolino</a1></b> is a born-and-bred New Yorker and recent Yale graduate. Somewhere along the way she developed a penchant for R. Perhaps most surprisingly, this website was lovingly built in RStudio.
+<a1><b>Zoe Morales Ervolino</a1></b> is a born-and-bred New Yorker and recent Yale graduate. Somewhere along the way she developed a penchant for statistical thinking and computing languages. Perhaps most surprisingly, this website was lovingly built in RStudio.
 <br>
 <br>
 ```{r image2, echo=FALSE, out.width="80%", fig.align='center'}
@@ -91,9 +91,6 @@ embed_video(
 <center>
 <h6>❣ watch ❣</h6>
 </center>
-<center>
-view triangulations <a href="https://youtu.be/rf0VjGLtb3g?t=253"><b>here</b>
-</center>
 ```{r image x, echo=FALSE, out.width="50%", fig.align='center'}
 
 triangulations <- "/Users/zoeervolino/Documents/zoe/zoe/triangulations.jpg"
@@ -101,6 +98,18 @@ knitr::include_graphics(triangulations)
 
 ```
 </a>
+<center>
+view triangulations <a href="https://youtu.be/rf0VjGLtb3g?t=253"><b>here</b>
+</a></center>
+<br>
+<br>
+<hr>
+<br>
+<center>
+<h6>❣ read ❣</h6>
+</center>
+check out Zoe's original story, <i>Ana and the Soap-Cutter's Mirage</i>,<a href="ana.html"> <b>here</a></b>
+<br>
 <br>
 <hr>
 <br>
@@ -108,6 +117,7 @@ knitr::include_graphics(triangulations)
 <h4>**❣ peruse ❣**</h4>
 </center>
 <center>
+<br>
 auto-retrato
 </center>
 ```{r image4, echo=FALSE, out.width="50%", fig.align='center'}
@@ -116,10 +126,10 @@ zoe2 <- "/Volumes/NO NAME/zoe/FullSizeRender.jpeg"
 knitr::include_graphics(zoe2)
 
 ```
+<center>
 <br>
 <hr>
 <br>
-<center>
 <h2>**❣ listen ❣**</h2>
 </center>
 <center>
