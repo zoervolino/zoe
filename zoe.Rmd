@@ -1,7 +1,5 @@
 ---
-title: ""
 output: html_document
-
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
@@ -12,7 +10,10 @@ self_contained: false
 
 css: zme_style.css
 ---
+<html>
 <head>
+<meta charset="utf-8">
+<title>zoe morales ervolino</title>
 <style type="text/css">
 .main-container {
   max-width: 1800px;
@@ -22,6 +23,7 @@ css: zme_style.css
     	cursor: url('/Users/zoeervolino/Documents/zoe/zoe/cursor.cur'), default;
 }
 </style>
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -142,7 +144,7 @@ embed_audio(lab, attribute = c("controls"), type = "mpeg")
 ```
 </center>
 <center>
-<small>further sonic pleasure <a href="https://soundcloud.com/zoe-ervolino"><b>here</a></b>
+<small>further sonic pleasure <a href="nuestro_planeta.html"><b>here</a></b>
 </small>
 </center>
 <br>
@@ -164,4 +166,4 @@ embed_audio(lab, attribute = c("controls"), type = "mpeg")
 </small>
 </small>
 </br>
-
+</html>
