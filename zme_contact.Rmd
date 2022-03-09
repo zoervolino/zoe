@@ -1,0 +1,65 @@
+---
+title: ""
+output: html_document
+
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'contact.html'))})
+ 
+css: zme_style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+```
+
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+    background-color:MidnightBlue;
+    	cursor: url('/Users/zoeervolino/Documents/zoe/zoe/cursor.cur'), default;
+}
+</style>
+
+<a href="https://zoervolino.github.io/zoe/">
+<font size=80>
+<h1>Zoe M`r emo::ji("dizzy")`rales Ervolino</h1>
+</font>
+</a>
+
+<a2>
+<small>
+<small><small><a href="about.html"><i>ABOUT</a>  </i></small></small>
+<small><small><a href="design.html"><i>ART</a>  </i></small></small> 
+<b><b><small><small><a href="contact.html"><i>CONTACT</a>  </i></small></small></b></b> 
+<small><small><a href="https://tinyletter.com/unfriendlybrujita/archive"><i>ARCHIVE</a>  </i></small></small>
+</small>
+</a2>  
+
+
+```{r image1, echo=FALSE, out.width="50%", fig.align='center'}
+
+mascara <- "zoezoe.jpg"
+knitr::include_graphics(mascara)
+
+```
+<br>
+<small>Resume available upon request. You can reach <a1><b>Zoe</a1></b> at <a href="mailto:zoe@ervolino.com">zoe at ervolino dot com</a></small>
+<br>
+<br>
+<hr>
+<br>
+<small>
+<small>
+<center>
+<i><a href="#top">back to top of page</a>
+</center>
+</i>
+</small>
+</small>
+</br>

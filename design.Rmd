@@ -1,0 +1,129 @@
+---
+title: ""
+output: html_document
+
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'design.html'))})
+ 
+css: zme_style.css
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+```
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+    background-color:MidnightBlue;
+    	cursor: url('/Users/zoeervolino/Documents/zoe/zoe/cursor.cur'), default;
+}
+</style>
+
+<a href="https://zoervolino.github.io/zoe/">
+<font size=80>
+<h1>Zoe M`r emo::ji("dizzy")`rales Ervolino</h1>
+</font>
+</a>
+
+<a2>
+<small>
+<small><small><a href="about.html"><i>ABOUT</a>  </i></small></small>
+<b><b><small><small><a href="design.html"><i>ART</a>  </i></small></small></b></b> 
+<small><small><a href="contact.html"><i>CONTACT</a>  </i></small></small> 
+<small><small><a href="https://tinyletter.com/unfriendlybrujita/archive"><i>ARCHIVE</a>  </i></small></small>
+</small>
+</a2>  
+<br>
+<a1><b>Zoe Morales Ervolino</a1></b> <small><small>does art stuff sometimes.
+<br>
+<br>
+If you like, <a href="https://zoervolino.github.io/cartagena/">enjoy some of the photographs</a> she took during a recent trip to Cartagena, Colombia and the nearby cities of Barranquilla and San Andres. 
+<br>
+<br>
+You can also take a look at the acrylic and oil paintings she has done. 
+<br>
+<br>
+<hr>
+<br>
+<font size=60>
+<b><a2>tan boba</a2></b>
+</font>
+<br>
+<a2>oléo sobre lienzo</a2>
+```{r image3, echo=FALSE, out.width="70%", fig.align='center'}
+a <- "IMG_0113.JPG"
+knitr::include_graphics(a)
+```
+<br>
+<br>
+<b><a2>auto-retrato rojito</a2></b><br>
+<a2>acrílico sobre papel</a2>
+```{r image4, echo=FALSE, out.width="70%", fig.align='center'}
+a <- "IMG_9513.JPG"
+knitr::include_graphics(a)
+```
+<br>
+<br>
+<b><a2>carita</a2></b><br>
+<a2>acrílico sobre papel</a2>
+```{r image5, echo=FALSE, out.width="70%", fig.align='center'}
+a <- "IMG_0107.JPG"
+knitr::include_graphics(a)
+```
+<br>
+<br>
+<b><a2>reflexión desnuda</a2></b>
+<br>
+<a2>oléo sobre lienzo</a2>
+```{r image6, echo=FALSE, out.width="70%", fig.align='center'}
+a <- "IMG_1970.JPG"
+knitr::include_graphics(a)
+```
+<br>
+<br>
+<b><a2>la maldición del vientre</a2></b>
+<br>
+<a2>acrílico sobre papel</a2>
+```{r image7, echo=FALSE, out.width="70%", fig.align='center'}
+a <- "IMG_0105.JPG"
+knitr::include_graphics(a)
+```
+<br>
+</small></small>
+<br>
+<br>
+<b><a2>huevitos abstractos</a2></b>
+<br>
+<a2>oléo sobre lienzo</a2>
+```{r image8, echo=FALSE, out.width="70%", fig.align='center'}
+a <- "IMG_0101.JPG"
+knitr::include_graphics(a)
+```
+<br>
+<br>
+<b><a2>la niña verde</a2></b>
+<br>
+<a2>acrílico sobre papel</a2>
+```{r image9, echo=FALSE, out.width="70%", fig.align='center'}
+a <- "IMG_0100.JPG"
+knitr::include_graphics(a)
+```
+<br>
+</small></small>
+<br>
+<hr>
+<br>
+<small>
+<small>
+<center>
+<i><a href="#top">back to top of page</a>
+</center>
+</i>
+</small>
+</small>
+</br>

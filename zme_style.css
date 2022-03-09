@@ -1,7 +1,8 @@
+
 @font-face {
-    font-family: 'AerologicaRegular-K7day';
-    src: url("/Users/zoeervolino/Documents/zoe/AerologicaRegular-K7day.ttf") format('truetype');
-    font-weight: normal;
+    font-family: 'FontsFree-Net-PanAmTextCaps';
+    src: url("/Users/zoeervolino/Documents/zoe/zoe/PanAmTextCaps.ttf") format('truetype');
+    font-weight: thin;
     font-style: normal;
 }
 
@@ -12,28 +13,54 @@
     font-style: normal;
 }
 
+
 @font-face {
-    font-family: 'WarioLand4CHMC';
-    src: url("/Users/zoeervolino/Documents/zoe/Warioland4chmc-VApe.ttf") format('truetype');
+    font-family: 'Exo2Medium-aDL9';
+    src: url("/Users/zoeervolino/Documents/zoe/zoe/Exo2Medium-aDL9.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
-body{
-  font-size: 32px;
-  font-family: WarioLand4CHMC;
-  text-align:center;
-  color:PaleVioletRed;
+@font-face {
+    font-family: 'WarioLand4CHMC';
+    src: url("/Users/zoeervolino/Documents/zoe/zoe/Warioland4chmc-VApe.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
+
+body{
+  font-size: 32px;
+  font-family: Exo2Medium-aDL9;
+  text-align:center;
+  color:LavenderBlush;
+}
+
+  
 h1{
-  font-family: AerologicaRegular-K7day;
-  font-size: 40pt;
-  color:DarkCyan;
+  font-family: PanAmTextCaps;
+  font-size: 35pt;
+  font-weight: thin;
+  color:Linen;
 }
 
 h2,h3,h4,h5,h6{
   font-family: Love Letters;
-  font-size: 25pt;
-  color:DarkBlue;
+  font-size: 32pt;
+  color:LightSeaGreen;
 }
+
+
+a1{
+  font-size: 40px;
+  font-family: WarioLand4CHMC;
+  text-align:center;
+  color:MistyRose;
+}
+
+a2{
+  font-size: 40px;
+  font-family: WarioLand4CHMC;
+  text-align:center;
+  color:Grey;
+  

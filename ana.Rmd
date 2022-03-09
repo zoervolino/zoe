@@ -1,0 +1,107 @@
+---
+title: ""
+output: html_document
+
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'ana.html'))})
+ 
+css: zme_style.css
+---
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+    background-color:MidnightBlue;
+    	cursor: url('/Users/zoeervolino/Documents/zoe/zoe/cursor.cur'), default;
+}
+</style>
+
+<a href="https://zoervolino.github.io/zoe/">
+<font size=80>
+<h1>Zoe M`r emo::ji("dizzy")`rales Ervolino</h1>
+</font>
+</a>
+
+<a2>
+<small>
+<small><small><a href="about.html"><i>ABOUT</a>  </i></small></small>
+<small><small><a href="design.html"><i>ART</a>  </i></small></small> 
+<small><small><a href="contact.html"><i>CONTACT</a>  </i></small></small> 
+<small><small><a href="https://tinyletter.com/unfriendlybrujita/archive"><i>ARCHIVE</a>  </i></small></small>
+</small>
+</a2>  
+<br>
+<h2>Ana and the Soap-Cutter's Mirage</h2>
+<br>
+<small>
+<small>
+Seated in the corner of her childhood bedroom with the lights turned out, Ana studied <a href="https://www.instagram.com/explore/tags/soapcutting/?hl=en">the soap cutting videos on her Instagram explore page</a> with what energy she had remaining from an otherwise uneventful day in quarantine eating like a “Victoria Secret Model before a show” just to see what potential happiness might ensue from watching herself get smaller...
+<br>
+<br>
+Looking into her lap with her phone screen lighting her face from beneath, she watched with excitement as the knife worked its way through the soap, peeling away thin layer after thin layer. She had been seated this way for roughly 35 minutes now, yet her eyes were glued to the screen with no chance of departure. As the strips curled into themselves and fell onto the table, Ana’s eyes widened.
+<br>
+<br>
+She thought the repetitive movement was beautiful, like a dance, and, for one particularly memorable teal soap that she was entirely certain smelled of the Mediterranean Sea, when the ribbons of blue fell away and exposed that the soap was not, as she had previously imagined, a gorgeous and divine aquamarine, but instead contained the purest and most delicate eggshell white soap on the interior, she felt giddy. The hand continued to whittle away until the once full bar of soap was merely a ghost, and a single white straw remained.
+<br>
+<br>
+She remembered then of the last time that this subject had come up, while she peered at Fernando Botero’s 1998 “Mano,” which she had carefully considered in the Colombian capital of Bogotá.
+<br>
+<br>
+```{r mano1, echo=FALSE, out.width="50%", fig.align='center'}
+
+mano <- "http://www.elcolombiano.com/blogs/letrasanonimas/wp-content/uploads/2011/08/000530474.jpg"
+knitr::include_graphics(mano)
+
+```
+<br>
+<i>The larger-than-life sausagey finger drawing provoked her to levy her own palm for comparison, leaving her to study the unique creases and discoloration of her own five fingers, grotesque knuckles, overgrown cuticles, and brittle gel-coated nails. In an unusual moment of total synchronicity, her mano was Botero’s mano, and vice versa.</i>
+<br>
+<br>
+```{r mano2, echo=FALSE, out.width="50%", fig.align='center'}
+
+mano <- "/Users/zoeervolino/Documents/zoe/zoe/Picture1.png"
+knitr::include_graphics(mano)
+
+```
+<br>
+<i>In that exact instant, the security guard on duty, Andres Villanueva, began hitting on the woman to her left, who was observing an oil painting of a giant man mounting an obese horse in the Colombian countryside.</i>
+<br>
+<br>
+Ana shook the memory like a dream where her teeth fell out and returned her attention to the phone screen, where blue light seeped into her desperate, and beady eyes. In a decisive twist of fate that left her in a state of complete shock, the hand grasped the single and pathetic little straw of soap, placed it squarely in its palm, and crumbled. Then, Instagram presented her with a new video.
+<br>
+<br>
+Ana closed her phone and placed it beside her on the nightstand. She swung her heels around her hips and pressed the balls of her flat feet squarely to the ground. She turned to face the laptop that had been overheating for the past 72 hours and caused her great distress in all of her “professional” Zoom obligations throughout that aforementioned time period.
+<br>
+<br>
+She returned to her scene of omniscient authority, where a yellow-hued IKEA desk lamp illuminated the objects in question. Under the warm glow—with her phone balanced between the ridge of her collarbone and chin—Ana, at once, assembled the prey in her assured but delicate left grip, and raised the predator in her somber but faithful right palm. Then, summoning the wisdom of her ancestors and the good will of her own feminine divinity, Ana attempted for the fourth time to capture the most flawless soap-shaving video.
+<br>
+<br>
+Attempts one through three had been catastrophes. On her first try, she had forgotten to press record. She had shaved through layer after layer of the soap, until she crumbled the last sliver, realized what she had done, and immediately fell into a temporary but familiar depression. The same destiny had led to the demise of the second and third attempts, so she figured she didn’t have much to lose but her dignity. All she had to do was place the phone in the tripod she had already assembled, and press record. With the phone properly secured in place, Ana inhaled deeply and pressed the button. Her hands moved instinctually to the task at hand.
+<br>
+<br>
+Firmly, grasping the bar of soap in her right hand, and rotating the knife in her left, she took a moment to prepare herself. She turned her gaze quickly to the artisanal soap she had purchased in a granola small town in Upstate New York which was unusually out of character for her as she was more accustomed to buying soap through the local soapery on the corner of Soap and Soap out in Queens. Her name was Ana Limpia for God’s sake and she had a reputation to keep.
+<br>
+<br>
+Unfortunately for her, at that exact second, Ana recalled the piercing sound of the alarm as it went off in the Museo Botero. <i>Indeed, in complimenting the woman in yellow to her right, who peered with unmistakable awe at the painting of the supernatural caballo and rider, Andres Villanueva had let his guard down.</i> And in remembering the critical mistake, so had Ana. <i>The alarm went off in the Museo Botero.</i> The knife shifted uncomfortably in Ana's grip and the blade sashayed quite seamlessly into her flesh. Ana yelped and shut her eyes.
+<br>
+<br>
+Yet, when Ana returned to her gaze, she found herself staring up at the still image of her accidental act of self-harm, and, to her amazement, she realized that she was not in fact the owner of the hands, as she had previously wondered, but, instead, the soap itself: Soft, tender, and capable of delicately revealing that pearly sheen which lies just beneath the surface of debris, purifying before dissolving entirely into the sacred and feeling realm of the invisible.
+</small>
+</small>
+<br>
+<br>
+<hr>
+<br>
+<small>
+<small>
+<center>
+<i><a href="#top">back to top of page</a>
+</center>
+</i>
+</small>
+</small>
+</br>
